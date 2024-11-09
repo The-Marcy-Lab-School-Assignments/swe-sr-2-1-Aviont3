@@ -24,7 +24,7 @@ Do some research on accessibility. What are some ways to make your website more 
 
 ### Response 2
 
-A few ways to make your website more accessible are, making sure to add alt attributes to images, keeping your navigation and layout consistent, and making your text clear and understandable. Accessibility is important because your website has to be accessible to everyone including those who have disabilities.
+A few ways to make your website more accessible are, making sure to add alt attributes to images, keeping your navigation and layout consistent with semantic elements, and making your text clear and understandable.You can also use rem instead px. Accessibility is important because your website has to be accessible to everyone including those who have disabilities.
 
 ## Prompt 3
 
@@ -60,3 +60,5 @@ The Document Object Model (DOM) API provides functions for manipulating HTML doc
 When building a website, how can I decide which content I should write using HTML/CSS and which content I should create using the JavaScript and the DOM API?
 
 ### Response 5
+
+Creating websites with only JS and the DOM is not the best practice because takes away the accessibility. It would also be very labor-heavy compared to using HTML. When building a website you use HTML and CSS to create basic content like headings, paragraphs, and images. You also use them for styling by modifying the content's size, color, and format. You use the dom and javascript to give the content functionality. You use the make the content interactivity with website users. It creates alerts, forms, animations, etc.
